@@ -1,11 +1,11 @@
 .box{
-    width: 400px; /* 增大白框的宽度 */
+    width: 400px;
     padding: 20px;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(21, 21, 21, 0.877);
     text-align: center;
-    margin: 100px auto; /* 增加外边距，使白框在页面中更居中 */
+    margin: 100px auto; 
   }
   
   .fg{
@@ -23,8 +23,8 @@
   }
   
   .message {
-    display: none; /* 默认不显示文字 */
-    margin-top: 10px; /* 与按钮保持一定间隔 */
+    display: none; 
+    margin-top: 10px; 
     color: #333;
   }
   p{
